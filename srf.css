@@ -1,0 +1,9 @@
+body {
+    background-color:lightslategrey;
+    margin-left: 50px;
+    font-family:Verdana;
+    text-align: left;
+}
+.submit{
+    color: coral;
+}
